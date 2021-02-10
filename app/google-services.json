@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79975498013",
+    "project_id": "questionscool-bdab5",
+    "storage_bucket": "questionscool-bdab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79975498013:android:a979c12c6c7d8f4ca321f4",
+        "android_client_info": {
+          "package_name": "com.example.questionscool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79975498013-1v7gn650ruifptrcec8qj8bhiru0jf6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questionscool",
+            "certificate_hash": "7431d780aef484c73f76224d40a8853620319832"
+          }
+        },
+        {
+          "client_id": "79975498013-qclq1igv2s46inp16mtf4c941pg4ls8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqXmbGCY5pBanJqiwg8V8l2jp8pbOTDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79975498013-qclq1igv2s46inp16mtf4c941pg4ls8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
